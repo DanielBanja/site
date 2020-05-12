@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://www.totalconstrucao.com.br/wp-content/uploads/2018/08/azul-na-decoracao.jpg');
+  background-size: auto 100vw;
+  font-family: Verdana;
+  height: 100vh;
+}
+
+.menu{
+  background-color: white;
+}
+
+.menu ul{
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li{
+  list-style: none;
+}
+
+a{
+  color: teal;
+  text-decoration: none;
+}
+
+a:houver{
+  text-decoration: underline;
+}
+
+.site-title{
+  color:whitesmoke;
+  text-align:center;
+}
+.site-subtitle{
+  color:whitesmoke;
+  font-style:italic;
+  text-align:center;
+}
